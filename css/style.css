@@ -29,7 +29,7 @@ h1{
 
 #slider{
 	width: 940px;
-	height: 350px;
+	height: 850px;
 	position: relative;
 	overflow: hidden;
 	float: left;
@@ -61,7 +61,7 @@ h1{
 	cursor: pointer;
 	position: relative;
 	z-index: 100;
-	
+
 }
 
 #prev{
